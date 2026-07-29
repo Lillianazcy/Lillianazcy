@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner" width="100%" alt="Lilliana GitHub Profile Banner">
+  <img src="banner1" width="100%" alt="Lilliana GitHub Profile Banner">
 </p>
 ## 🌸 About Me
 
