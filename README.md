@@ -3,7 +3,7 @@
 </p>
 ## 🌸 About Me
 
-Hi! I'm **Lilliana** — a trilingual IT professional who loves technology, automation, and making useful little things. ☁️
+Hi! I'm **Lilliana** ☁️
 
 Curious about new technologies, always learning, always building. ✨
 
