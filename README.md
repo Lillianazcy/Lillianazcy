@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner1" width="100%" alt="Lilliana GitHub Profile Banner">
 </p>
-## 🌸 About Me
+
 
 <p align="center">
   <img src="cat0.gif" width="220" />
